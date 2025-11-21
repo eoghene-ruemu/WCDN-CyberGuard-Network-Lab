@@ -58,9 +58,6 @@ Each image is stored in:
 
 
 ### **Network & Firewall Evidence**
-- **DNS Settings**  
-  ![dns](documentation/screenshots/03_dns-settings.png)
-
 - **pfSense Logs**  
   ![pfsense](documentation/screenshots/06_pfsense-logs.png)
 
