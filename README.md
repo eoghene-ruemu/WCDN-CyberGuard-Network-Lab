@@ -19,7 +19,7 @@ This project mirrors a real SOC defensive setup by analyzing reconnaissance scan
 
 - IDS/IPS Configuration (Snort)
 - Firewall deployment and rule management (pfSense)
-- Reconnaissance detection (Nmap, Nikto)
+- Reconnaissance detection (Nmap)
 - Exploit monitoring and alert correlation
 - Log analysis and event triage
 - Attack chain reconstruction
@@ -31,7 +31,7 @@ This project mirrors a real SOC defensive setup by analyzing reconnaissance scan
 ## 🛠️ Tools & Technologies
 
 **pfSense**, **Snort**, **Kali Linux**, **Metasploitable2**, **VirtualBox**,  
-**Nmap**, **Nikto**, **Metasploit**, **ET Rule Sets**, **Firewall Logs**
+**Nmap**, **Metasploit**, **ET Rule Sets**, **Firewall Logs**
 
 ---
 
