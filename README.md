@@ -2,7 +2,8 @@
 ### Intrusion Detection & Network Defense Environment  
 **pfSense | Snort IDS/IPS | Kali Linux | Metasploitable2**
 
-![banner](https://via.placeholder.com/1200x250?text=Wakanda+Cyber+Defense+Network+-+CyberGuard+Lab)
+![banner](A_digital_graphic_banner_represents_the_Wakanda_Cy.png)
+
 
 ---
 
