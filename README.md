@@ -65,8 +65,9 @@ Each image is stored in:
 - **Snort Alerts**  
   ![alerts](documentation/screenshots/05_snort-alerts.png)
 
-- **Snort Interface Settings**  
-  !(documentation/screenshots/07_snort-interface.png)
+ ### Snort Interface Settings
+![snort-int](documentation/screenshots/03-snort-interface-config.png)
+
 
 - **Attack Traffic (Kali → Metasploitable)**  
   ![atk](documentation/screenshots/08_attack-traffic.png)
