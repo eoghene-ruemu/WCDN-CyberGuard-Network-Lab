@@ -30,7 +30,7 @@ This project mirrors a real SOC defensive setup by analyzing reconnaissance scan
 ## 🛠️ Tools & Technologies
 
 **pfSense**, **Snort**, **Kali Linux**, **Metasploitable2**, **VirtualBox**,  
-**Nmap**, **Metasploit**, **ET Rule Sets**, **Firewall Logs**
+**Nmap**, **Nikto**, **Metasploit**, **ET Rule Sets**, **Firewall Logs**
 
 ---
 
@@ -65,12 +65,11 @@ Each image is stored in:
 - **Snort Alerts**  
   ![alerts](documentation/screenshots/05_snort-alerts.png)
 
- ### Snort Interface Settings
-![snort-int](documentation/screenshots/03-snort-interface-config.png)
-
+- **Snort Interface Settings**  
+  ![snort-int](documentation/screenshots/03_snort-interface.png)
 
 - **Attack Traffic (Kali → Metasploitable)**  
-  ![atk](documentation/screenshots/08_attack-traffic.png)
+  ![atk](documentation/screenshots/07_attack-traffic.png)
 
 - **Metasploitable Target Host**  
   ![msf](documentation/screenshots/09_metasploitable-target.png)
@@ -96,7 +95,7 @@ Each image is stored in:
 # 🧩 Lessons Learned
 
 - Snort rule tuning is essential to reduce false positives  
-- Reconnaissance traffic (Nmap, Nikto) produces very reliable detection  
+- Reconnaissance traffic (Nmap) produces very reliable detection  
 - pfSense + Snort provides strong visibility for SOC learning  
 - Attack timestamps help validate alert accuracy  
 - Proper log review is a core blue-team skill  
@@ -117,4 +116,6 @@ No external or production networks were targeted.
 
 The **CyberGuard Network Lab** demonstrates hands-on SOC analyst skills through firewall configuration, IDS/IPS deployment, attack simulation, alert triage, and defensive response workflows.  
 This project reflects real-world blue-team analysis and showcases your readiness for SOC, detection engineering, and network defense roles.
+
+
 
